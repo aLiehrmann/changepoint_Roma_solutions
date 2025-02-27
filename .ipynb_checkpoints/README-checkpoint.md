@@ -8,5 +8,6 @@ Learning smoothing models of copy number profiles using breakpoint annotations :
 
 # E-mail 
 
-Guillem Rigaill : guillem.rigaill@inrae.fr
+Guillem Rigaill: guillem.rigaill@inrae.fr
+
 Arnaud Liehrmann: arnaud.liehrmann@sorbonne-universite.fr
