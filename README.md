@@ -1,10 +1,10 @@
 ---
-title: "Exercise: Changepoint Detection in Tumor Data"
+title: "Final Exam: Changepoint Detection in Tumor Data"
 author: "Arnaud Liehrmann & Guillem Rigaill"
 output: html_document
 ---
 
-## Exercise: Changepoint Detection in Tumor Data
+## Final Exam: Changepoint Detection in Tumor Data
 
 In this exercise, you will analyze tumor patient data, including **normalized copy number profiles** and **changepoint annotations of subregions**. Each subregion is labeled as either:
 
